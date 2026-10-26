@@ -35,7 +35,8 @@ This dashboard brings together multiple HR metrics and visualizations to support
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](images/dashboard-preview.png)
+![HR Analytics Dashboard](<img width="1572" height="885" alt="Screenshot 2026-10-26 210102" src="https://github.com/user-attachments/assets/778145d9-5c60-42cb-91dd-34a1f08460f3" />
+)
 
 ## 🎯 Project Objective
 
